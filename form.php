@@ -1,11 +1,5 @@
 <?php 
 
-/*
-VIDEO: Contact Form
-View - https://www.patreon.com/posts/html-php-contact-20812527
-Download - https://www.patreon.com/file?h=20812527&i=2518807
-*/
-
 include('form_process.php'); 
 
 ?>
